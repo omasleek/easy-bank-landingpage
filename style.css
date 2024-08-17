@@ -1,0 +1,13 @@
+:root {
+    --primary-color: rgb(112,48,14);
+    --secondary-color: rgb(255, 255, 255);
+    --text-font: "Raleway", sans-serif;
+    --primary-text-font: "Satisfy", cursive;
+    --text-color: hsl(228, 45%, 44%);
+    --preprimary-color: rgb(218,165,32);
+  }
+  .logo img {
+    width: 150px; 
+    height: auto; 
+    display: block;
+  }
